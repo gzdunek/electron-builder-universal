@@ -20,7 +20,7 @@
     "node-pty": "^1.1.0-beta14"
   },
   "devDependencies": {
-    "electron": "^31.2.1",
+    "electron": "^31.3.0",
     "electron-builder": "^25.0.0"
   }
 }
